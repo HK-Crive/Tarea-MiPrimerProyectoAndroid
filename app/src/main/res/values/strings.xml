@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea1Semana3</string>
+    <string name="strwelcome">Welcome</string>
+    <string name="strEnter">Enter</string>
+    <string name="txtWelcome">Welcome</string>
+    <string name="txtEnter">Enter</string>
+</resources>

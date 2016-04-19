@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarea1Semana3</string>
+    <string name="strEnter">Entrar</string>
+    <string name="strwelcome">Bienvenido</string>
+    <string name="txtEnter">Entrar</string>
+    <string name="txtWelcome">Bienvenido</string>
+</resources>
